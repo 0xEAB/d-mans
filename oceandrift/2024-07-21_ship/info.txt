@@ -1,0 +1,7 @@
+Created for the “dlang-dockerized” project to be used as its avatar.
+
+Note: `d-man_cargo-ship.svg` is an Inkscape-SVG file.
+You might want to reduce it to plain SVG for further use.
+
+The original sketch was drawn using the “Simple Draw” app on my phone.
+It’s included here as bonus (`d-man_ship-sketch.svg`).

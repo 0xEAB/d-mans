@@ -9,13 +9,13 @@ Collection of D-Man drawings from around the world
 
 Please feel free to add more!
 
+[Simple automatatically generated listing](https://dlang-community.github.io/d-mans).
+
 ### International D-Man collection
 
 By [@meiz_sandwich](https://twitter.com/meiz_sandwich).
 
 License: can be used for any promotion of the D language.
-
-[Simple automatatically generated listing](https://dlang-community.github.io/d-mans).
 
 ## Other D-Man resources
 

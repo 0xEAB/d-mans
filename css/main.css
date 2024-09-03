@@ -19,3 +19,7 @@
 .site-nav {
 	display: inline-block;
 }
+
+.gallery img {
+	max-width: 30%;
+}
